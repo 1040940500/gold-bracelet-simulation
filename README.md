@@ -33,4 +33,4 @@ OPENAI_API_KEY=sk-xxxxx
 
 ## 📸 截图
 
-（可选上传项目截图）
+![alt text](image.png)
